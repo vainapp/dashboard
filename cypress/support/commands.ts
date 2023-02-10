@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-namespace */
+/* eslint-disable @typescript-eslint/no-empty-interface */
 /// <reference types="cypress" />
 // ***********************************************
 // This example commands.ts shows you how to

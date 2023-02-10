@@ -18,8 +18,8 @@
   },
   "lint-staged": {
     "./**/*.{js,jsx,ts,tsx}": [
-      "yarn madge",
-      "yarn lint:fix"
+      "pnpm run madge",
+      "pnpm run lint:fix"
     ]
   },
   "dependencies": {
