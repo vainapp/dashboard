@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vainapp/dashboard/compare/v1.0.1...v1.1.0) (2023-02-10)
+
+
+### Features
+
+* add tailwindcss ([0c6a48e](https://github.com/vainapp/dashboard/commit/0c6a48e1ec04dd40260c98d80bda9244453b17bc))
+
 ## [1.0.1](https://github.com/vainapp/dashboard/compare/v1.0.0...v1.0.1) (2023-02-10)
 
 
