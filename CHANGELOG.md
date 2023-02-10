@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/vainapp/dashboard/compare/v1.1.0...v1.1.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* fix tailwindcss setup ([62b863a](https://github.com/vainapp/dashboard/commit/62b863ac72cf6068543606e2e769116b83bdd6fd))
+
 # [1.1.0](https://github.com/vainapp/dashboard/compare/v1.0.1...v1.1.0) (2023-02-10)
 
 
