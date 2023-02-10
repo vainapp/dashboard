@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/vainapp/dashboard/compare/v1.0.0...v1.0.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* try to fix husky hooks ([1ec3129](https://github.com/vainapp/dashboard/commit/1ec3129cde64a33d076abb4b8c42df7b405f23c1))
+
 # 1.0.0 (2023-02-10)
 
 
