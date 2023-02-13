@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/vainapp/dashboard/compare/v1.1.1...v1.1.2) (2023-02-13)
+
+
+### Bug Fixes
+
+* rename the project in the sentry config file ([cca5af2](https://github.com/vainapp/dashboard/commit/cca5af2ad818a6d23813fe6d4f17f9cb5caa6082))
+
 ## [1.1.1](https://github.com/vainapp/dashboard/compare/v1.1.0...v1.1.1) (2023-02-10)
 
 
