@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/vainapp/dashboard/compare/v1.1.2...v1.1.3) (2023-02-13)
+
+
+### Bug Fixes
+
+* cypress with pnpm ([195f44a](https://github.com/vainapp/dashboard/commit/195f44ab0f9c3e2a99e626e3785df395c162d087))
+
 ## [1.1.2](https://github.com/vainapp/dashboard/compare/v1.1.1...v1.1.2) (2023-02-13)
 
 
