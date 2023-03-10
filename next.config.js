@@ -6,6 +6,8 @@ const moduleExports = {
   sentry: {
     hideSourceMaps: true,
   },
+  pageExtensions: ['page.tsx'],
+  plugins: [require('@tailwindcss/forms')],
 }
 
 const sentryWebpackPluginOptions = {
