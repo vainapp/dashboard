@@ -26,6 +26,7 @@
       "prettier/prettier": "error",
       "@typescript-eslint/triple-slash-reference": "off",
       "@typescript-eslint/consistent-type-assertions": "off",
+      "@typescript-eslint/strict-boolean-expressions": "off",
       "import/order": [
         "error",
         {
